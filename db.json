@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Project 1",
+      "description": "Lorem ipsum dolor sit amet",
+      "category": "design",
+      "budget": 10000,
+      "dueDate": "01/01/2021"
+    },
+    {
+      "name": "weretrytuyui",
+      "budget": 1234567,
+      "category": "design",
+      "description": "wqewretrytuy",
+      "dueDate": "esrdtfghj",
+      "id": 2
+    }
+  ]
+}
